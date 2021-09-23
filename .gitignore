@@ -1,0 +1,12 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+tetrio_ai.sln
+.vs/
+__pycache__/
+*.pyc
+/tetrio_ai/proj_files
