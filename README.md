@@ -2,7 +2,7 @@
 
 Video of the Ai in action...
 
-[![Watch the video](https://img.youtube.com/vi/-Bys0PalZb8/hqdefault.jpg)](https://www.youtube.com/embed/-Bys0PalZb8)
+[![Watch the video](https://img.youtube.com/vi/-Bys0PalZb8/hqdefault.jpg)](https://youtu.be/-Bys0PalZb8)
 
 
 ### Note:
